@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\bin\Debug\HwAdo-5.exe.config
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\bin\Debug\HwAdo-5.exe
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\bin\Debug\HwAdo-5.pdb
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\obj\Debug\HwAdo-5.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\obj\Debug\HwAdo-5.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\obj\Debug\HwAdo-5.exe
+C:\Users\Shipa\source\repos\HwAdo-5\HwAdo-5\obj\Debug\HwAdo-5.pdb
